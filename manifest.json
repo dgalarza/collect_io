@@ -2,7 +2,7 @@
     "name": "Collect.io",
     "short_name": "Collect.io",
     "description": "A fun color collection game",
-    "start_url": "/",
+    "start_url": "/dj/",
     "display": "standalone",
     "background_color": "#f0f0f0",
     "theme_color": "#f0f0f0",

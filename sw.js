@@ -1,10 +1,10 @@
 const CACHE_NAME = 'collect-io-v1';
 const ASSETS_TO_CACHE = [
-    '/',
-    '/index.html',
-    '/styles.css',
-    '/game.js',
-    '/sw.js'
+    '/dj/',
+    '/dj/index.html',
+    '/dj/styles.css',
+    '/dj/game.js',
+    '/dj/sw.js'
 ];
 
 // Install event - cache all assets
