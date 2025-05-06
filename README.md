@@ -1,5 +1,7 @@
 # Collect.io
 
+Vibe Coding with my son.
+
 A fun color collection game where you control a square to collect colorful tiles and change your color!
 
 ## How to Play
